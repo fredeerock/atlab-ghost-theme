@@ -1689,7 +1689,7 @@ body:not(.post-template) .post-title {
         padding: 0 5px;
         border-radius: 0;
         border-color: transparent;
-        color: #2e2e2e;
+        color: rgba(0,0,0,0.4) !important;
         background: transparent;
     }
     .home-button:hover {
